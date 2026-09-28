@@ -10,21 +10,27 @@ The data was first imported into Jupyter Notebook, where Python and Pandas were 
 🔄 Project Workflow
 
 Excel Dataset
+
      ↓
      
 Jupyter Notebook
+
      ↓
      
 Python + Pandas
+
      ↓
      
 Data Cleaning & Transformation
+
      ↓
      
 PostgreSQL
+
      ↓
      
 Power BI
+
      ↓
      
 Interactive Dashboard
