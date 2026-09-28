@@ -21,7 +21,6 @@ PostgreSQL
 Power BI
      ↓
 Interactive Dashboard
-
 🛠️ Technologies Used
 Technology	Purpose
 📗 Excel	Source data
@@ -31,7 +30,6 @@ Technology	Purpose
 🐘 PostgreSQL	Database storage and SQL analysis
 📊 Power BI	Dashboard and data visualization
 🔗 GitHub	Project version control and sharing
-
 🎯 Project Objectives
 Import and understand raw data from Excel.
 Clean and preprocess the dataset using Python.
@@ -57,7 +55,7 @@ Preparing clean data for database storage and visualization
 
 After processing the data in Jupyter Notebook, the cleaned dataset was imported into PostgreSQL.
 
-**PostgreSQL was used to:
+PostgreSQL was used to:
 
 Store the processed dataset
 Manage structured data
@@ -75,3 +73,8 @@ Category-wise analysis
 Customer-related insights
 Trends and comparisons
 Other important metrics derived from the dataset
+Dashboard Preview
+
+
+
+
