@@ -35,6 +35,7 @@ Power BI
      
 Interactive Dashboard
 
+
 🛠️ Technologies Used
 
 Technology	Purpose
@@ -74,6 +75,8 @@ Build an interactive dashboard.
 
 Generate meaningful insights from the data.
 
+
+
 🧹 Data Cleaning & Transformation
 
 The dataset was processed using Python and Pandas. Major operations include:
@@ -93,6 +96,7 @@ Filtering and transforming data
 Preparing clean data for database storage and visualization
 
 
+
 🗄️ PostgreSQL
 
 After processing the data in Jupyter Notebook, the cleaned dataset was imported into PostgreSQL.
@@ -105,8 +109,8 @@ Manage structured data
 
 Perform SQL queries
 
-
 Prepare data for Power BI
+
 
 
 📊 Power BI Dashboard
