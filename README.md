@@ -10,27 +10,21 @@ The data was first imported into Jupyter Notebook, where Python and Pandas were 
 🔄 Project Workflow
 
 Excel Dataset
-
      ↓
      
 Jupyter Notebook
-
      ↓
      
 Python + Pandas
-
      ↓
      
 Data Cleaning & Transformation
-
      ↓
      
 PostgreSQL
-
      ↓
      
 Power BI
-
      ↓
      
 Interactive Dashboard
@@ -107,6 +101,8 @@ Perform SQL queries
 
 
 Prepare data for Power BI
+
+
 📊 Power BI Dashboard
 
 The processed PostgreSQL data was connected to Power BI to create an interactive dashboard.
